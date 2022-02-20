@@ -6,7 +6,13 @@ public class SimpleDemo {
 	{
 		
 		System.out.println("Welcome to Trace Automation");
-
+		m1();
+		
+	}
+	
+	static void m1()
+	{
+		System.out.println("M1 method");
 	}
 
 }
