@@ -14,5 +14,10 @@ public class SimpleDemo {
 	{
 		System.out.println("M1 method");
 	}
+	
+	static void m2()
+	{
+		System.out.println("M2 method");
+	}
 
 }
